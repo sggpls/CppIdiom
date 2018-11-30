@@ -2,6 +2,7 @@
 #ifndef SHARED_PTR_H
 #define SHARED_PTR_H
 
+<<<<<<< HEAD
 #include "shared_ptr_base.hpp"
 
 namespace lvn
